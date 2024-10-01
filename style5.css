@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(195, 255, 187);
+    background: linear-gradient(120deg, #69fff3 25%, #3fff69 100%);
 }
 
 .header{
